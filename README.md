@@ -4,7 +4,7 @@ A creative, multi-language repository of automation scripts and tools for DevOps
 
 ## 🚀 Overview
 
-**devops-forge** is your go-to toolkit for DevOps challenges. It houses a growing collection of scripts written in Python, Go, Rust, Bash, and more—helping automate, orchestrate, and optimize tasks across the DevOps lifecycle.
+**devops-forge** is your go-to toolkit for DevOps challenges. It houses a growing collection of scripts written in Python, Go, Bash, and more—helping automate, orchestrate, and optimize tasks across the DevOps lifecycle.
 
 
 ## 💡 Features
