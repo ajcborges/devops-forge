@@ -3,7 +3,7 @@
 
 ## Installation
 
-The script `export_passwords.py` depends on:
+The script `1password_export.py` depends on:
 
 - Python 3
 - 1Password CLI integration
@@ -39,7 +39,7 @@ $> op signin --account anz.1password.eu --raw
 $> op whoami # 1Password current account
 
 # run export script
-$> python3 export_passwords.py --verbose # run export script
+$> python3 1password_export.py --verbose # run export script
 ```
 
 ## What it does
