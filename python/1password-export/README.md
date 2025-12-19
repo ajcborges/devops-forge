@@ -3,7 +3,7 @@
 
 ## Installation
 
-The script `1password-export.py` depends on:
+The script `export_passwords.py` depends on:
 
 - Python 3
 - 1Password CLI integration
